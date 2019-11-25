@@ -6,3 +6,7 @@
 - How to use Join Operators to join multiple tables
 - How to use Aggregations and Group By to aggregate data
 - How to write subqueries in SQL
+
+2. In sql 2, you will review your knowledge in two different topics:
+- Relational Algebra
+- Query Processing & Optimization
